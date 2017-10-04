@@ -1,16 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package clases;
 
-/**
- *
- * @author yojar
- * 
- */
+package PDFEClases;
+
+
 public class Cfraccion {
+    //declarar variables
      
     private int num;
     private int den;
